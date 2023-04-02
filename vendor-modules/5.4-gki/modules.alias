@@ -3,8 +3,6 @@ alias of:N*T*Cqcom,sm8150-qsee-irq qsee_ipc_irq
 alias of:N*T*Cqcom,sm8150-qsee-irqC* qsee_ipc_irq
 alias of:N*T*Cqcom,kona-qsee-irq qsee_ipc_irq
 alias of:N*T*Cqcom,kona-qsee-irqC* qsee_ipc_irq
-alias of:N*T*Cqcom,sn-nci nq_nci
-alias of:N*T*Cqcom,sn-nciC* nq_nci
 alias platform:xhci-hcd xhci_plat_hcd
 alias of:N*T*Cgeneric-xhci xhci_plat_hcd
 alias of:N*T*Cgeneric-xhciC* xhci_plat_hcd
@@ -273,6 +271,8 @@ alias of:N*T*Cqcom,qcedev,context-bank qcedev_mod
 alias of:N*T*Cqcom,qcedev,context-bankC* qcedev_mod
 alias of:N*T*Cqcom,msm-fastrpc-rpmsg frpc_adsprpc
 alias of:N*T*Cqcom,msm-fastrpc-rpmsgC* frpc_adsprpc
+alias of:N*T*Cqcom,sn-nci nfc_i2c
+alias of:N*T*Cqcom,sn-nciC* nfc_i2c
 alias of:N*T*Cqcom,cam-req-mgr camera
 alias of:N*T*Cqcom,cam-req-mgrC* camera
 alias of:N*T*Cqcom,cam-sync camera

@@ -1,6 +1,5 @@
 /vendor/lib/modules/5.4-gki/qsee_ipc_irq.ko:
 /vendor/lib/modules/5.4-gki/qcom_pm8008-regulator.ko:
-/vendor/lib/modules/5.4-gki/nq-nci.ko:
 /vendor/lib/modules/5.4-gki/xhci-plat-hcd.ko: /vendor/lib/modules/5.4-gki/xhci-hcd.ko
 /vendor/lib/modules/5.4-gki/qcom-smb1398-charger.ko:
 /vendor/lib/modules/5.4-gki/phy-qcom-ufs-qmp-v4-lahaina.ko:
@@ -56,6 +55,7 @@
 /vendor/lib/modules/5.4-gki/qcom_wdt_core.ko:
 /vendor/lib/modules/5.4-gki/service-notifier.ko: /vendor/lib/modules/5.4-gki/service-locator.ko
 /vendor/lib/modules/5.4-gki/q6_pdr_dlkm.ko: /vendor/lib/modules/5.4-gki/service-notifier.ko /vendor/lib/modules/5.4-gki/service-locator.ko
+/vendor/lib/modules/5.4-gki/nfc_i2c.ko:
 /vendor/lib/modules/5.4-gki/camera.ko: /vendor/lib/modules/5.4-gki/leds-qpnp-flash-v2.ko /vendor/lib/modules/5.4-gki/qcom-spmi-wled.ko /vendor/lib/modules/5.4-gki/synx-driver.ko /vendor/lib/modules/5.4-gki/cx_ipeak.ko
 /vendor/lib/modules/5.4-gki/clk-spmi-pmic-div.ko:
 /vendor/lib/modules/5.4-gki/core_hang_detect.ko:
